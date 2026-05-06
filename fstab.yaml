@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "hhttps://author-p10681-e1722263.adobeaemcloud.com/bin/franklin.delivery/martinnoble/migration-demo/main"
+    url: "https://author-p10681-e1722263.adobeaemcloud.com/bin/franklin.delivery/martinnoble/migration-demo/main"
     type: "markup"
     suffix: ".html"
